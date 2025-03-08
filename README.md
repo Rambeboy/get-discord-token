@@ -2,6 +2,8 @@
 
 A Chrome extension to automatically retrieve a Discord token and log in using a token.
 
+![logo](assets/extension.png)
+
 ### DOWNLOAD & INSTALLATION
 
 1. Download the extension file in .rar format.
