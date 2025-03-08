@@ -5,8 +5,8 @@ A Chrome extension to automatically retrieve a Discord token and log in using a 
 ### DOWNLOAD & INSTALLATION
 
 1. Download the extension file in .rar format.
-2. Extract the .rar file.
-3. Open Chrome and go to `chrome://extensions/`
+2. Extract the .zip file.
+3. Open Chrome and go to `chrome://extensions`
 4. Enable Developer Mode in the top right corner.
 5. Click the Load Unpacked button.
 6. Select the folder you extracted earlier.
